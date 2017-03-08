@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 // set(key, value) - Set or insert the value if the key is not already present.
 // When the cache reached its capacity, it should invalidate the least recently used item before inserting a new item.
 
-namespace SimpleLRUCache
+namespace SampleProjects
 {
     public class LRUCache
     {
