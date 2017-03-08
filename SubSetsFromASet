@@ -22,7 +22,7 @@ using System.Threading.Tasks;
 //  []
 //]
 
-namespace Subsets
+namespace SampleProjects
 {
     public class SubsetsSolution
     {
