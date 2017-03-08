@@ -5,7 +5,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace CodeProjects
+namespace SampleProjects
 {
     /// <summary>
     /// A simple BloomFilter class for string items which uses two hash functions to create a bloom filter of given size. 
